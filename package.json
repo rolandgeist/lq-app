@@ -1,0 +1,19 @@
+{
+  "name": "lq-app",
+  "version": "1.0.0",
+  "description": "News app for Lebensqualitaet.de messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "lq-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolandgeist/lq-app.git"
+  },
+  "author": "Roland Geist",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rolandgeist/lq-app/issues"
+  },
+  "homepage": "https://github.com/rolandgeist/lq-app#readme"
+}
